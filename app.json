@@ -13,7 +13,7 @@
   "env": {
     "REPO_URL": {
       "description": "URL of the REPO, If You Have edited Repo.. Else Leave ! Don't Change",
-      "value": "https://github.com/ITZ-ZAID/Telegram"
+      "value": "https://github.com/Dragobotz/Telegram"
     },
     "TOKEN": {
       "description": "Bot Token from @botfather..",
@@ -24,23 +24,23 @@
       "value": "postgresql:ur url"
     },
     "SUDO_USERS": {
-      "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id",
+      "description": "Dev Access Of Your Bot (Id) Go to @Dragoop_bot And Type /id",
       "value": ""
     },
     "DEV_USERS": {
-      "description": "Dev Access Of Your Bot (Id) Go to @Zaid2_Robot And Type /id..",
+      "description": "Dev Access Of Your Bot (Id) Go to @Dragoop_bot And Type /id..",
       "value": ""
     },
     "GBAN_LOGS": {
-      "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
+      "description": "Forward Your Channel Message to @Dragoop_bot To Get Your Channel ID..",
       "value": "-100"
     },
     "MESSAGE_DUMP": {
-      "description": "Forward Your Channel Message to @Zaid2_Robot To Get Your Channel ID..",
+      "description": "Forward Your Channel Message to @Dragoop_bot To Get Your Channel ID..",
       "value": "-100"
     },
     "OWNER_ID": {
-      "description": "Your Id, Go To @Zaid2_Robot Pm and Type /id..",
+      "description": "Your Id, Go To @Dragoop_bot Pm and Type /id..",
       "value": ""
     },
     "OWNER_USERNAME": {
@@ -48,7 +48,7 @@
       "value": ""
     },
     "STRING_SESSION": {
-      "description": "A Telethon String Session Of Dummy Account @StarkStringGenBot..",
+      "description": "A Telethon String Session Of Dummy Account @DragoStringGenBot..",
       "value": ""
     }
   },
