@@ -159,13 +159,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://github.com/Dragobotz/Telegram",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/TheSupportChat',
+                                url='https://t.me/DragoXServerChat',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
@@ -173,7 +173,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/TheUpdatesChannel",
+                                url="https://t.me/DragoXServer",
                             ),
                         ],
                     ]
@@ -254,13 +254,13 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "source_btn"),
-                                url="https://github.com/ITZ-ZAID/Telegram",
+                                url="https://github.com/Dragobotz/Telegram",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text=gs(chat.id, "support_chat_link_btn"),
-                                url='https://t.me/TheSupportChat',
+                                url='https://t.me/DragoXServerChat',
                             ),
                             InlineKeyboardButton(
                                 text="Help",
@@ -268,7 +268,7 @@ def start(update: Update, context: CallbackContext):  # sourcery no-metrics
                             ),
                             InlineKeyboardButton(
                                 text=gs(chat.id, "updates_channel_link_btn"),
-                                url="https://t.me/TheUpdatesChannel",
+                                url="https://t.me/DragoXServer",
                             ),
                         ],
                     ]
@@ -662,7 +662,7 @@ def donate(update: Update, _: CallbackContext):
         context: CallbackContext -
     """
 
-    update.effective_message.reply_text("can Donate Via \n Razorpay 👉 https://pages.razorpay.com/GODFATHERDONATIONS \n PayPal 👉 https://www.paypal.com/paypalme/mrakki58 for more Contact in @Godfatherakki!  >_<")
+    update.effective_message.reply_text("Can Donate Via \n Upi 👉 https://graph.org/file/b88f394a5ef0758910082.jpg \n For more Contact in @DragoFtw!  >_<")
 
 
 @zaidmsg(Filters.status_update.migrate)

@@ -35,7 +35,7 @@ log = logging.getLogger('[Telethon]')
 logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLevel(logging.WARNING)
 log.info("[TELEGRAM] Bot is starting. | An Telethon Project. | Licensed under GPLv3.")
 log.info("[TELEGRAM] Not affiliated to Azur Lane or Yostar in any way whatsoever.")
-log.info("[TELEGRAM] Project maintained by: github.com/ITZ-ZAID (t.me/Timesisnotwaiting)")
+log.info("[TELEGRAM] Project maintained by: github.com/Dragobotz (t.me/DragoXServer)")
 
 # if version < 3.6, stop bot.
 if sys.version_info[0] < 3 or sys.version_info[1] < 7:
