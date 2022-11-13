@@ -11,7 +11,7 @@ The easiest way to deploy this Bot
 sudo apt update && apt upgrade -y
 apt-get -y install git gcc python3-dev
 pip3 install -U pip
-git clone https://github.com/ITZ-ZAID/Telegram # clone the repo.(Before Cloning Make Sure uh have Filled Your Vars in config.ini)
+git clone https://github.com/Dragobotz/Telegram # clone the repo.(Before Cloning Make Sure uh have Filled Your Vars in config.ini)
 cd Telegram
 pip3 install -U -r requirements.txt
 nano config.py # use vim to edit ENVs (if uh have already filled then Run start command
@@ -24,8 +24,8 @@ python3 -m Telegram # start the bot.
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐆𝐫𝐨𝐮𝐩</p>
 
 <p align="center">
-    <a href="https://t.me/TheSupportChat"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
+    <a href="https://telegram.me/DragoXServerChat"> <img src="https://img.shields.io/badge/Join-Our-green" /> <img src="https://img.shields.io/badge/Support-Group-critical" /> </a>
 </p>
-<a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
+<a href="https://telegram.me/DragoXServer"><img src="https://img.shields.io/badge/Telegram-𝐔𝐩𝐝𝐚𝐭𝐞%20'𝐬%20𝐂𝐡𝐚𝐧𝐧𝐞𝐥%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 
 
