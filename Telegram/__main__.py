@@ -662,7 +662,7 @@ def donate(update: Update, _: CallbackContext):
         context: CallbackContext -
     """
 
-    update.effective_message.reply_text("Can Donate Via \n Upi 👉 https://graph.org/file/b88f394a5ef0758910082.jpg \n For more Contact in @DragoFtw!  >_<")
+    update.effective_message.reply_text("Can Donate Via \n Upi 👉 https://graph.org/file/b88f394a5ef0758910082.jpg \n For more Contact in @DragoFtw!  >_< \n Your Small Donation Can Help Us To Host This Bot")
 
 
 @zaidmsg(Filters.status_update.migrate)
